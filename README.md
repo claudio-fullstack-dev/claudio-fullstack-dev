@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
+</p>
 <h1 align="center">Hola 👋  soy Claudio ✨ </h1> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e0301f4-6b66-41fe-986f-094c22096ea4" alt="Banner Full Stack Developer" width="100%" />
