@@ -1,19 +1,20 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
+
 <h1 align="center">Hola 👋  soy Claudio ✨ </h1> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e0301f4-6b66-41fe-986f-094c22096ea4" alt="Banner Full Stack Developer" width="100%" />
 </p>
 
-
 <p align="center">
- <!--  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"  /> -->
-<!-- <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" /> -->
+ <!--  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a> -->
 <a href="https://linkedin.com/in/claudio-peñalva" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Claudio"/></a>
-<!-- <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"  /> -->
+<!-- <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a> -->
 <a href = "mailto:claudio.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de claudio"  /></a>
   </p>
+  
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
