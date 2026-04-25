@@ -14,14 +14,14 @@
 	<!-- <a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
 	<a href="https://www.instagram.com/claudio.fullstack.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-<p align="center">
- <!--  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a> -->
+ <p align="center">
+ <!--  <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="de Claudio"  /></a> -->
+<!--<a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="de Claudio" /></a> -->
 <a href="https://linkedin.com/in/claudio-peñalva" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Claudio"/></a>
-<!-- <a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a> -->
+<!-- <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="de Claudio"  /></a> -->
+<a href = "https://github.com/claudio-fullstack-dev" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github de claudio"  /></a>
 <a href = "mailto:claudio.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de claudio"  /></a>
-  </p>
-  
+
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
