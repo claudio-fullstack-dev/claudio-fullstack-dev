@@ -1,31 +1,32 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
-
 <h1 align="center">Hola 👋  soy Claudio ✨ </h1> 
 <p align="center">
   <a href="https://linkedin.com/in/claudio-peñalva" target="_blank">
     <img src="https://github.com/user-attachments/assets/5e0301f4-6b66-41fe-986f-094c22096ea4" alt="Banner Full Stack Developer de Claudio" width="100%" />
   </a>
 </p>
-<!-- <p align="center">
-	<a href="mailto:abdallahelsawy706@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/claudio-fullstack-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	 <a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> 
-	<a href="https://linkedin.com/in/claudio-peñalva"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	 <a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> 
-	<a href="https://www.instagram.com/claudio.fullstack.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p> -->
- <p align="center">
- <!--  <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="de Claudio"  /></a> -->
-<!--<a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="de Claudio" /></a> -->
+<div align="center">
+<br>	
+Conecta conmigo ☕
+<br>
+	
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn de Claudio")](https://www.linkedin.com/in/claudio-peñalva) 
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png "claudio.fullstack.dev@gmail.com")](mailto:claudio.fullstack.dev@gmail.com) 
+[![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub de Claudio")](https://github.com/claudio-fullstack-dev) 
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "claudio.fullstack.dev")](https://www.instagram.com/claudio.fullstack.dev/)
+</div>
+ <!-- <p align="center">
+   <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="de Claudio"  /></a>
+<a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="de Claudio" /></a> 
 <a href="https://linkedin.com/in/claudio-peñalva" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Claudio"/></a>
-<!-- <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="de Claudio"  /></a> -->
+ <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="de Claudio"  /></a> 
 <a href = "https://github.com/claudio-fullstack-dev" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github de claudio"  /></a>
 <a href = "mailto:claudio.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de claudio"  /></a>
 <a href="https://www.instagram.com/claudio.fullstack.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Claudio" />
-</a>
+</a> -->
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
@@ -53,7 +54,11 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 </p>
 <br>
 ## Connect with me ☕ :
+<br>
 
+[![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub de Claudio")](https://github.com/claudio-fullstack-dev) [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "Instagram de Claudio")](https://www.instagram.com/TU_USUARIO/) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn de Claudio")](https://www.linkedin.com/in/claudio-peñalva) [![Gmail](https://img.icons8.com/fluency/48/000000/apple-mail.png "claudio.fullstack.dev@gmail.com")](mailto:claudio.fullstack.dev@gmail.com)
+
+<br>
 <br>
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
