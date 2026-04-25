@@ -15,7 +15,7 @@ Conecta conmigo ☕
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn de Claudio")](https://www.linkedin.com/in/claudio-peñalva) 
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png "claudio.fullstack.dev@gmail.com")](mailto:claudio.fullstack.dev@gmail.com) 
 [![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub de Claudio")](https://github.com/claudio-fullstack-dev) 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "claudio.fullstack.dev")](https://www.instagram.com/claudio.fullstack.dev/)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "Instagram de Claudio")](https://www.instagram.com/claudio.fullstack.dev/)
 </div>
  <!-- <p align="center">
    <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="de Claudio"  /></a>
