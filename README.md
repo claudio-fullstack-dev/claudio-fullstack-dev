@@ -37,7 +37,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
 💻Mi trayectoria incluye experiencia previa como **Full Stack Java Developer**, lo que me brindó una comprensión profunda de la lógica de programación y estructuras robustas de backend. Actualmente, he consolidado mi perfil como **FULL STACK WEB DEVELOPER**, especializándome en el ecosistema moderno de JavaScript para entregar productos de alta calidad y alto rendimiento.
 
-- 🚀 Especialista en el stack **PERN** (PostgreSQL, Express, React, Node.js).
+- 🚀 Especialista en el stack **PERN** (PostgreSQL, Express, React, Node.js, TypeScript).
 - 🏗️ Capacidad de análisis heredada de mi formación en **Java**.
 - 🛠️ Enfocado en el código limpio, la escalabilidad y las metodologías ágiles (**Scrum**).
 <!--Intro end-->
