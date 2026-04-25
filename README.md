@@ -6,7 +6,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e0301f4-6b66-41fe-986f-094c22096ea4" alt="Banner Full Stack Developer" width="100%" />
 </p>
-
+<p align="center">
+	<a href="mailto:abdallahelsawy706@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/claudio-fullstack-dev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<!-- <a href="https://wa.me/0201027173150"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
+	<a href="https://linkedin.com/in/claudio-peñalva"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<!-- <a href="https://www.facebook.com/abdallah.elsawy.524"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
+	<a href="https://www.instagram.com/claudio.fullstack.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 <p align="center">
  <!--  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a> -->
