@@ -229,6 +229,11 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 </p>
 <!-- fin de estadistica 3  -->
 <!-- inicio de estadistica 4  -->
+Aquí tienes el código completo de la Versión 2: "Atardecer Cálido". Esta combinación usa un tono marrón café muy profundo para el fondo, que hará que los iconos color arena y los títulos tierra resalten muchísimo, dándole un aire de "diseño de autor" a tu perfil.
+
+He ajustado todos los parámetros de las tres tarjetas (Estadísticas, Streak y Lenguajes) para que los colores sean exactamente iguales y el bloque se vea uniforme.
+
+HTML
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
@@ -237,15 +242,15 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudio-fullstack-dev&show_icons=true&count_private=true&title_color=e07a5f&icon_color=f2cc8f&text_color=e07a5f&bg_color=1a1a1a&hide_border=false&border_color=f2cc8f" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudio-fullstack-dev&show_icons=true&count_private=true&title_color=e07a5f&icon_color=e07a5f&text_color=f2cc8f&bg_color=2b221f&hide_border=false&border_color=e07a5f" />
   <br><br>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=claudio-fullstack-dev&background=1a1a1a&border=f2cc8f&fire=e07a5f&currStreakNum=f2cc8f&sideLabels=e07a5f&stroke=e07a5f&sideNums=e07a5f&ring=f2cc8f&currStreakLabel=f2cc8f&dates=e07a5f" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=claudio-fullstack-dev&background=2b221f&border=e07a5f&fire=e07a5f&currStreakNum=f2cc8f&sideLabels=f2cc8f&stroke=f2cc8f&sideNums=f2cc8f&ring=f2cc8f&currStreakLabel=f2cc8f&dates=f2cc8f" alt="GitHub Streak" />
   </a>
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fullstack-dev&hide_border=false&border_color=f2cc8f&title_color=e07a5f&icon_color=f2cc8f&text_color=e07a5f&bg_color=1a1a1a&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fullstack-dev&hide_border=false&border_color=e07a5f&title_color=e07a5f&icon_color=e07a5f&text_color=f2cc8f&bg_color=2b221f&langs_count=10"/>
 </td>
 </tr>
 </table>
