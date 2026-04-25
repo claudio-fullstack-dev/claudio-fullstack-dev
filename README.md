@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
-<h1 align="center">Hola 👋  soy Claudio ✨ </h1> 
+
+<h1 align="center">
+  Hola 👋 soy <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2250&pause=500&color=e07a5f&center=true&vCenter=true&width=180&lines=Claudio" alt="Claudio" align="center"> ✨
+</h1>
 <p align="center">
   <a href="https://linkedin.com/in/claudio-peñalva" target="_blank">
     <img src="https://github.com/user-attachments/assets/5e0301f4-6b66-41fe-986f-094c22096ea4" alt="Banner Full Stack Developer de Claudio" width="100%" />
