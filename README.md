@@ -131,72 +131,33 @@
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-
-
-
-
-
-
---------------------------------------
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+<!--comienzo estadistia 2 -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
-<!-- comienzo estadistca -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
-</p>
-<p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LulietLyan&theme=radical&show_icons=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LulietLyan&theme=transparent&background=45%2C000000%2C130F40&border=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideLabels=D3D3D3&stroke=D3D3D3&sideNums=D3D3D3&ring=2234AE&currStreakLabel=D3D3D3&dates=D3D3D3&excludeDaysLabel=D3D3D3" alt="GitHub Streak" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudio-fullstack-dev&show_icons=true&count_private=true&title_color=e07a5f&icon_color=f2cc8f&text_color=f4f1de&bg_color=000000&hide_border=false&border_color=e07a5f" />
+  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=claudio-fullstack-dev&theme=transparent&background=000000&border=e07a5f&fire=e07a5f&currStreakNum=f2cc8f&sideLabels=f4f1de&stroke=f4f1de&sideNums=f4f1de&ring=f2cc8f&currStreakLabel=f2cc8f&dates=f4f1de&excludeDaysLabel=f4f1de" alt="GitHub Streak" />
+  </a>
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LulietLyan&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  </td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fullstack-dev&hide_border=false&border_color=e07a5f&no-bg=false&no-frame=false&langs_count=10&title_color=e07a5f&icon_color=f2cc8f&text_color=f4f1de&bg_color=000000"/>
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
-</p>        
-<!--- stats (end) -->
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
+<!-- fin de estadistica 2  -->
 
-<!-- fin estadistica -->
 Última edición el: 27/4/2025
