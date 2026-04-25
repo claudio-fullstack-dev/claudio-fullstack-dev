@@ -9,8 +9,8 @@
 </p>
 <div align="center">
 	
-Conecta conmigo ☕
-<br>
+<h3>Conecta conmigo ☕</h3>
+<!-- <br> -->
 	
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn de Claudio")](https://www.linkedin.com/in/claudio-peñalva) 
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png "claudio.fullstack.dev@gmail.com")](mailto:claudio.fullstack.dev@gmail.com) 
@@ -203,3 +203,8 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <!-- fin de estadistica 2  -->
 
 Última edición el: 10/5/2026
+
+
+
+
+
