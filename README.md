@@ -228,7 +228,37 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
 <!-- fin de estadistica 3  -->
+<!-- inicio de estadistica 4  -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
+</p>
 
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudio-fullstack-dev&show_icons=true&count_private=true&title_color=e07a5f&icon_color=f2cc8f&text_color=e07a5f&bg_color=1a1a1a&hide_border=false&border_color=f2cc8f" />
+  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=claudio-fullstack-dev&background=1a1a1a&border=f2cc8f&fire=e07a5f&currStreakNum=f2cc8f&sideLabels=e07a5f&stroke=e07a5f&sideNums=e07a5f&ring=f2cc8f&currStreakLabel=f2cc8f&dates=e07a5f" alt="GitHub Streak" />
+  </a>
+</td>
+
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fullstack-dev&hide_border=false&border_color=f2cc8f&title_color=e07a5f&icon_color=f2cc8f&text_color=e07a5f&bg_color=1a1a1a&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
+</p>
+<!-- fin de estadistica 4  -->
+<!-- inicio de estadistica 5  -->
+<!-- fin de estadistica 5  -->
+<!-- inicio de estadistica 6  -->
+<!-- fin  de estadistica 6  -->
 Última edición el: 10/5/2026
 
 
