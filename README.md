@@ -173,7 +173,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
 <!-- comienzo estadistca -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
+</p>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -192,7 +194,9 @@
 <!--- stats (end) -->
 </p>        
 <!--- stats (end) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
+</p>
 
 <!-- fin estadistica -->
 Última edición el: 27/4/2025
