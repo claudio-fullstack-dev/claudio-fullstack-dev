@@ -31,20 +31,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 un apasionado **FULL STACK WEB DEVELOPER**
-
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
-
-Soy un desarrollador apasionado por la creación de soluciones digitales eficientes y escalables. Cuento con una base técnica sólida iniciada 
+	
+🎓Soy un desarrollador **FULL STACK WEB DEVELOPER** apasionado  por la creación de soluciones digitales eficientes y escalables. Cuento con una base técnica sólida iniciada 
 como **Técnico en Programación**, la cual he potenciado con una formación intensiva de **Digital House** **Argentina Programa** **Udemy** **entre otros** .
 
-Mi trayectoria incluye experiencia previa como **Full Stack Java Developer**, lo que me brindó una comprensión profunda de la lógica de programación y estructuras robustas de backend. Actualmente, he consolidado mi perfil como **FULL STACK WEB DEVELOPER**, especializándome en el ecosistema moderno de JavaScript para entregar productos de alta calidad y alto rendimiento.
+💻Mi trayectoria incluye experiencia previa como **Full Stack Java Developer**, lo que me brindó una comprensión profunda de la lógica de programación y estructuras robustas de backend. Actualmente, he consolidado mi perfil como **FULL STACK WEB DEVELOPER**, especializándome en el ecosistema moderno de JavaScript para entregar productos de alta calidad y alto rendimiento.
 
 - 🚀 Especialista en el stack **PERN** (PostgreSQL, Express, React, Node.js).
 - 🏗️ Capacidad de análisis heredada de mi formación en **Java**.
