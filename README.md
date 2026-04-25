@@ -8,7 +8,7 @@
   </a>
 </p>
 <div align="center">
-<br>	
+	
 Conecta conmigo ☕
 <br>
 	
@@ -25,12 +25,9 @@ Conecta conmigo ☕
 <a href = "https://github.com/claudio-fullstack-dev" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github de claudio"  /></a>
 <a href = "mailto:claudio.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de claudio"  /></a>
 <a href="https://www.instagram.com/claudio.fullstack.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Claudio" />
-</a> -->
-<br>
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Claudio" /></a> -->
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
-
 <p align="left">
 	
 🎓Soy un desarrollador **FULL STACK WEB DEVELOPER** apasionado  por la creación de soluciones digitales eficientes y escalables. Cuento con una base técnica sólida iniciada 
@@ -42,17 +39,17 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 - 🛠️ Enfocado en el código limpio, la escalabilidad y las metodologías ágiles (**Scrum**).
 <!--Intro end-->
   </p>
-<br>
+
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 
-## What I am Good at 🧑‍💻 :
+## En lo que soy bueno 🧑‍💻 :
 
 <br>
 
@@ -64,7 +61,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-<br>
+
 
 <!-------------------------->
 <div id="proyectos">
