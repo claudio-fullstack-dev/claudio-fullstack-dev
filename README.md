@@ -173,35 +173,9 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
-<!--comienzo estadistia 1 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
-</p>
 
-<div align="center">
-<table align="center" style="border-spacing: 0; border-collapse: collapse;">
-<tr border="none">
-<td width="50%" align="center" bgcolor="#000000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudio-fullstack-dev&show_icons=true&count_private=true&title_color=e07a5f&icon_color=f2cc8f&text_color=f4f1de&bg_color=000000&hide_border=false&border_color=e07a5f" />
-  <br><br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=claudio-fullstack-dev&theme=dark&background=000000&border=e07a5f&fire=e07a5f&currStreakNum=f2cc8f&sideLabels=f4f1de&stroke=f4f1de&sideNums=f4f1de&ring=f2cc8f&currStreakLabel=f2cc8f&dates=f4f1de" alt="GitHub Streak" />
-  </a>
-</td>
-
-<td width="50%" align="center" bgcolor="#000000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-fullstack-dev&hide_border=false&border_color=e07a5f&langs_count=10&title_color=e07a5f&icon_color=f2cc8f&text_color=f4f1de&bg_color=000000"/>
-</td>
-</tr>
-</table>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
-</p>
-<!--fin estadistia 1 -->
 <!--comienzo estadistia 2 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
 
@@ -225,7 +199,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
-</p>
+</p> -->
 <!-- fin de estadistica 2  -->
 <!-- inicio de estadistica 3  -->
 <p align="center">
