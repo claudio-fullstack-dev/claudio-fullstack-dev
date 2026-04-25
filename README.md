@@ -36,8 +36,7 @@ Conecta conmigo ☕
 🎓Soy un desarrollador **FULL STACK WEB DEVELOPER** apasionado  por la creación de soluciones digitales eficientes y escalables. Cuento con una base técnica sólida iniciada 
 como **Técnico en Programación**, la cual he potenciado con una formación intensiva de **Digital House** **Argentina Programa** **Udemy** **entre otros** .
 
-💻Mi trayectoria incluye experiencia previa como **Full Stack Java Developer**, lo que me brindó una comprensión profunda de la lógica de programación y estructuras robustas de backend. Actualmente, he consolidado mi perfil como **FULL STACK WEB DEVELOPER**, especializándome en el ecosistema moderno de JavaScript para entregar productos de alta calidad y alto rendimiento.
-
+💻Mi trayectoria incluye experiencia previa como **Full Stack Java Developer**, lo que me brindó una comprensión profunda de la lógica de programación y estructuras robustas de backend. 
 - 🚀 Especialista en el stack **PERN** (PostgreSQL, Express, React, Node.js, TypeScript).
 - 🏗️ Capacidad de análisis heredada de mi formación en **Java**.
 - 🛠️ Enfocado en el código limpio, la escalabilidad y las metodologías ágiles (**Scrum**).
@@ -52,18 +51,6 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
-<br>
-## Connect with me ☕ :
-<br>
-
-[![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub de Claudio")](https://github.com/claudio-fullstack-dev) [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "Instagram de Claudio")](https://www.instagram.com/TU_USUARIO/) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "LinkedIn de Claudio")](https://www.linkedin.com/in/claudio-peñalva) [![Gmail](https://img.icons8.com/fluency/48/000000/apple-mail.png "claudio.fullstack.dev@gmail.com")](mailto:claudio.fullstack.dev@gmail.com)
-
-<br>
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
-
-<br>
 
 ## What I am Good at 🧑‍💻 :
 
