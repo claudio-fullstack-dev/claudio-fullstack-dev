@@ -71,11 +71,11 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=netbeans" title="NetBeans" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=n8n" title="n8n" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=netbeans" title="NetBeans" />
+  <img src="https://skillicons.dev/icons?i=n8n" title="n8n" />
 </p>
 
 ## En lo que soy bueno 🧑‍💻 :
