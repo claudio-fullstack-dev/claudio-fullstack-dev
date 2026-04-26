@@ -224,14 +224,12 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 </tr>
 </table>
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
-</p>
 <!-- fin de estadistica 4  -->
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclaudio-fullstack-dev&count_bg=%23007ACC&title_bg=%23555555&icon=eye-fill.svg&icon_color=%23E7E7E7&title=vistas&edge_flat=false" alt="Vistas del Perfil"/>
-</p>
+
+
+
+	
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=claudio-fullstack-dev&color=blue&style=flat-square&label=PERFIL+VISTAS" alt="claudio-fullstack-dev" />
 </p>
