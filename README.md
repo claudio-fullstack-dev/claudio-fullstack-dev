@@ -224,14 +224,13 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 </tr>
 </table>
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
+</p>
 <!-- fin de estadistica 4  -->
 
-
-
-	
- 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=claudio-fullstack-dev&color=blue&style=flat-square&label=PERFIL+VISTAS" alt="claudio-fullstack-dev" />
+  <img src="https://komarev.com/ghpvc/?username=claudio-fullstack-dev&color=e8612d&style=flat-square&label=PERFIL+VISTAS" alt="claudio-fullstack-dev" />
 </p>
 Última edición el: 10/5/2026
 
