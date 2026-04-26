@@ -117,8 +117,9 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
+	
+## Algunos proyectos👨📂
+	
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
@@ -173,8 +174,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <br><br><br>
 <br><br>
 
-
-<h2>GitHub :octocat:</h2>
+## 📈 GitHub :octocat:
 <!--- stats & Trophy (start) -->
 
 <!--comienzo estadistia 2 -->
