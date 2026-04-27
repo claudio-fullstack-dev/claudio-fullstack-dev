@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
-</p>
-
 <h1 align="center">
   Hola 👋 soy <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2250&pause=500&color=e07a5f&center=true&vCenter=true&width=180&lines=Claudio" alt="Claudio" align="center"> ✨
 </h1>
@@ -104,9 +100,14 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
 </p>
 
-<!-- imagen webp de 600px
-<img width="500" height="281" alt="mercado liebre webp 600px" src="https://github.com/user-attachments/assets/ac8904b7-4d73-48bb-9c04-50cb85a20ba5" /> -->
+<!-- imagen webp de 600px-->
+<!-- <img width="500" height="281" alt="mercado liebre webp 600px" src="https://github.com/user-attachments/assets/ac8904b7-4d73-48bb-9c04-50cb85a20ba5" /> --> 
+<!--portada 1-->
 <!-- <img width="1672" height="941" alt="primer proyecto español" src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" /> -->
+ <!-- video 1-->
+<!-- <img width="500" height="282" alt="video 1 500px" src="https://github.com/user-attachments/assets/7cfb9dd8-2918-4978-8d7e-c8fdefe103fd" /> -->
+
+
 
 
 <!-------------------------->
@@ -156,7 +157,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
         <p>Arquitecturas <strong>IMPRESCINDIBLES</strong>: Clean Architecture, inyección de dependencias y testing.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 2</b></summary>
-          <img src="https://github.com/user-attachments/assets/c0a95fe1-d0cb-4ff6-b6f8-86ec0e325d5c" width="100%">
+          <img src="https://github.com/user-attachments/assets/7cfb9dd8-2918-4978-8d7e-c8fdefe103fd" width="100%">
         </details>
       </div>
     </td>
@@ -184,7 +185,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
         <p>Nivel intermedio: foco en <strong>buenas prácticas, arquitectura y testing</strong>. Curso de 8 horas.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 3</b></summary>
-          <img src="https://github.com/user-attachments/assets/c0a95fe1-d0cb-4ff6-b6f8-86ec0e325d5c" width="100%">
+          <img src="https://github.com/user-attachments/assets/7cfb9dd8-2918-4978-8d7e-c8fdefe103fd" width="100%">
         </details>
       </div>
     </td>
@@ -205,7 +206,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
         <p>Domina <strong>Kotlin Multiplatform y Jetpack Compose</strong> desde cero. Curso gratuito.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 4</b></summary>
-          <img src="https://github.com/user-attachments/assets/c0a95fe1-d0cb-4ff6-b6f8-86ec0e325d5c" width="100%">
+          <img src="https://github.com/user-attachments/assets/7cfb9dd8-2918-4978-8d7e-c8fdefe103fd" width="100%">
         </details>
       </div>
     </td>
