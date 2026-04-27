@@ -106,6 +106,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
 <!-- imagen webp de 600px
 <img width="500" height="281" alt="mercado liebre webp 600px" src="https://github.com/user-attachments/assets/ac8904b7-4d73-48bb-9c04-50cb85a20ba5" /> -->
+<!-- <img width="1672" height="941" alt="primer proyecto español" src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" /> -->
 
 
 <!-------------------------->
@@ -121,7 +122,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       <h3 align="center">Curso Android Básico</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-          <img src="https://i.imgur.com/Jji0CIE.jpg" width="100%" alt="Curso básico android">
+          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso básico android">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
@@ -142,7 +143,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       <h3 align="center">Arquitectura MVVM</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-          <img src="https://i.imgur.com/7uCBigG.jpg" width="100%" alt="Curso arquitectura MVVM">
+          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso arquitectura MVVM">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -170,7 +171,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       <h3 align="center">Curso Android Intermedio</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-          <img src="https://i.imgur.com/V48W0sU.jpg" width="100%" alt="Curso intermedio Android">
+          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso intermedio Android">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
@@ -191,7 +192,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       <h3 align="center">Curso Kotlin Multiplatform</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-          <img src="https://i.imgur.com/nDDp1Ra.jpg" width="100%" alt="Curso Kotlin Multiplatform">
+          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso Kotlin Multiplatform">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
