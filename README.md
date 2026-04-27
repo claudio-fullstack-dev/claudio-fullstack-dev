@@ -20,15 +20,7 @@
 [![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub de Claudio")](https://github.com/claudio-fullstack-dev) 
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "Instagram de Claudio")](https://www.instagram.com/claudio.fullstack.dev/)
 </div>
- <!-- <p align="center">
-   <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="de Claudio"  /></a>
-<a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="de Claudio" /></a> 
-<a href="https://linkedin.com/in/claudio-peñalva" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Claudio"/></a>
- <a https://linkedin.com/in/claudio-peñalva" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="de Claudio"  /></a> 
-<a href = "https://github.com/claudio-fullstack-dev" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github de claudio"  /></a>
-<a href = "mailto:claudio.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de claudio"  /></a>
-<a href="https://www.instagram.com/claudio.fullstack.dev/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Claudio" /></a> -->
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 <p align="left">
@@ -112,7 +104,8 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
 </p>
 
-
+<!-- imagen webp de 600px
+<img width="500" height="281" alt="mercado liebre webp 600px" src="https://github.com/user-attachments/assets/ac8904b7-4d73-48bb-9c04-50cb85a20ba5" /> -->
 
 
 <!-------------------------->
@@ -141,7 +134,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
         <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong>. Curso gratuito de 12 horas.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 1</b></summary>
-          <img src="https://github.com/user-attachments/assets/c0a95fe1-d0cb-4ff6-b6f8-86ec0e325d5c" width="100%">
+          <img src="https://github.com/user-attachments/assets/ac8904b7-4d73-48bb-9c04-50cb85a20ba5" width="100%">
         </details>
       </div>
     </td>
