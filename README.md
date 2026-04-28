@@ -148,7 +148,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso arquitectura MVVM">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+          <a href="#" target="_self">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="#" target="_self">
@@ -176,10 +176,10 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso intermedio Android">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+          <a href="#" target="_self">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+          <a href="#" target="_self">
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
@@ -197,10 +197,10 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso Kotlin Multiplatform">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+          <a href="#" target="_self">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+          <a href="#" target="_self">
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
           </a>
         </p>
