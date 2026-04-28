@@ -134,7 +134,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
+        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 1</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
@@ -155,7 +155,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>Arquitecturas <strong>IMPRESCINDIBLES</strong>: Clean Architecture, inyección de dependencias y testing.</p>
+        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 2</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
@@ -183,7 +183,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>Nivel intermedio: foco en <strong>buenas prácticas, arquitectura y testing</strong>. Curso de 8 horas.</p>
+        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 3</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
@@ -204,7 +204,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
           </a>
         </p>
-        <p>Domina <strong>Kotlin Multiplatform y Jetpack Compose</strong> desde cero. Curso gratuito.</p>
+        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 4</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
