@@ -121,7 +121,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Curso Android Básico</h3>
+      <h3 align="center">Copia de MERCADO LIBRE</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso básico android">
@@ -134,7 +134,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong>. Curso gratuito de 12 horas.</p>
+        <p>con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 1</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
