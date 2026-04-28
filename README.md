@@ -123,7 +123,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
     <td width="50%" valign="top">
       <h3 align="center">Copia de MERCADO LIBRE</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+        <a href="#" target="_self">
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso básico android">
         </a>
         <p>
