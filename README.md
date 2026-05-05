@@ -221,7 +221,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -237,7 +237,28 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 </td>
 </tr>
 </table>
+</p> -->
+<!-- inicio -->
+<p align="center">
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+        <!-- Stats Card usando mirror de Vercel -->
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=claudio-fullstack-dev&show_icons=true&count_private=true&title_color=e07a5f&icon_color=e07a5f&text_color=f2cc8f&bg_color=2b221f&hide_border=false&border_color=e07a5f" alt="Stats" />
+        <br><br>
+        <!-- Streak Stats (Este dijiste que funciona, lo mantenemos) -->
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=claudio-fullstack-dev&background=2b221f&border=e07a5f&fire=e07a5f&currStreakNum=f2cc8f&sideLabels=f2cc8f&stroke=f2cc8f&sideNums=f2cc8f&ring=f2cc8f&currStreakLabel=f2cc8f&dates=f2cc8f" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <!-- Top Langs usando mirror de Vercel -->
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=claudio-fullstack-dev&hide_border=false&border_color=e07a5f&title_color=e07a5f&icon_color=f2cc8f&text_color=f2cc8f&bg_color=2b221f&langs_count=10&layout=compact" alt="Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
+<!-- fin -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divisor" width="100%">
 </p>
