@@ -142,7 +142,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Arquitectura MVVM</h3>
+      <h3 align="center">Copia de MERCADO LIBRE</h3>
       <div align="center">
         <a href="#" target="_self">
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso arquitectura MVVM">
@@ -170,7 +170,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Curso Android Intermedio</h3>
+      <h3 align="center">Copia de MERCADO LIBRE</h3>
       <div align="center">
        <a href="#" target="_self">
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso intermedio Android">
@@ -191,7 +191,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Curso Kotlin Multiplatform</h3>
+      <h3 align="center">Copia de MERCADO LIBRE</h3>
       <div align="center">
         <a href="#" target="_self">
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso Kotlin Multiplatform">
