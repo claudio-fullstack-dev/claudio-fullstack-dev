@@ -22,7 +22,7 @@
 <p align="left">
 	
 🎓Soy un desarrollador **FULL STACK WEB DEVELOPER** apasionado  por la creación de soluciones digitales eficientes y escalables. Cuento con una base técnica sólida iniciada 
-como **Técnico en Programación**, la cual he potenciado con una formación intensiva de **Digital House** **Argentina Programa** **Udemy** **entre otros** .
+como **Técnico en Programación**, la cual he potenciado con una formación intensiva de **Digital House**, **Argentina Programa**, **Udemy**, **entre otros** .
 
 💻Mi trayectoria incluye experiencia previa como **Full Stack Java Developer**, lo que me brindó una comprensión profunda de la lógica de programación y estructuras robustas de backend. 
 - 🚀 Especialista en el stack **PERN** (PostgreSQL, Express, React, Node.js, TypeScript).
