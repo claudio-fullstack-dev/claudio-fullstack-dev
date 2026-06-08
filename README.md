@@ -43,6 +43,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" title="React" />
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
+
 </p>
 
 <p align="left">
@@ -56,6 +57,8 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
   <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
 </p>
 
 <p align="left">
