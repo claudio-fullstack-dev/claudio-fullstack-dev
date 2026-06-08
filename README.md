@@ -276,7 +276,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=claudio-fullstack-dev&color=e8612d&style=flat-square&label=PERFIL+VISTAS" alt="claudio-fullstack-dev" />
 </p>
-Última edición el: 10/5/2026
+Última edición el: 10/6/2026
 
 
 
