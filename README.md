@@ -111,6 +111,12 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <!-- <img width="500" height="281" alt="video 1 - 500px" src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" /> -->
 
 
+<!-- portada mercado liebre
+<img width="1672" height="941" alt="primer proyecto español" src="https://github.com/user-attachments/assets/d3b8ab26-191f-466a-b1f4-671d57049ed5" />
+
+ portada mi portafolio web
+<img width="1672" height="941" alt="y" src="https://github.com/user-attachments/assets/24adf035-3394-4547-91b4-b391c1e917c4" />
+/> -->
 
 
 
@@ -127,7 +133,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       <h3 align="center">Copia de MERCADO LIBRE</h3>
       <div align="center">
         <a href="#" target="_self">
-          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso básico android">
+          <img src="https://github.com/user-attachments/assets/d3b8ab26-191f-466a-b1f4-671d57049ed5" width="100%" alt="Curso básico android">
         </a>
         <p>
           <a href="#" target="_self">
@@ -145,10 +151,10 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Copia de MERCADO LIBRE</h3>
+      <h3 align="center">MI PORTAFOLIO WEB</h3>
       <div align="center">
         <a href="#" target="_self">
-          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso arquitectura MVVM">
+          <img src="https://github.com/user-attachments/assets/24adf035-3394-4547-91b4-b391c1e917c4" width="100%" alt="Curso arquitectura MVVM">
         </a>
         <p>
           <a href="#" target="_self">
@@ -158,7 +164,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
           </a>
         </p>
-        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
+        <p>Un portafolio con diseño de interfaz moderna con animaciones fluidas, transiciones cinemáticas y un sistema de sonido HUD inmersivo integrado.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 2</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
