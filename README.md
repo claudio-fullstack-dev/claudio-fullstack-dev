@@ -215,7 +215,7 @@ video devsport
         <p>E-commerce de venta de ropa y accesorios deportivos, con carrito, sesiones de usuario y gestión de productos.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 3</b></summary>
-          <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
+          <img src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" width="100%">
         </details>
       </div>
     </td>
