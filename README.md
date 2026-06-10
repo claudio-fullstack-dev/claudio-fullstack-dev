@@ -116,7 +116,27 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 
  portada mi portafolio web
 <img width="1672" height="941" alt="y" src="https://github.com/user-attachments/assets/24adf035-3394-4547-91b4-b391c1e917c4" />
+
+portada devsport
+<img width="1672" height="941" alt="yy" src="https://github.com/user-attachments/assets/84eae9b7-5ae1-493b-b71d-448e417d5520" />
+
+video mercado liebre
+
+video portafolio web
+
+video devsport
+
+<img width="600" height="300" alt="600px" src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" />
+
+
 /> -->
+
+
+
+
+
+
+
 
 
 
@@ -167,7 +187,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
         <p>Un portafolio con diseño de interfaz moderna con animaciones fluidas, transiciones cinemáticas y un sistema de sonido HUD inmersivo integrado.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 2</b></summary>
-          <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
+          <img src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" width="100%">
         </details>
       </div>
     </td>
@@ -179,10 +199,10 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Copia de MERCADO LIBRE</h3>
+      <h3 align="center">DevSport</h3>
       <div align="center">
        <a href="#" target="_self">
-          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso intermedio Android">
+          <img src="https://github.com/user-attachments/assets/84eae9b7-5ae1-493b-b71d-448e417d5520" width="100%" alt="Curso intermedio Android">
         </a>
         <p>
           <a href="#" target="_self">
@@ -192,7 +212,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
           </a>
         </p>
-        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
+        <p>E-commerce de venta de ropa y accesorios deportivos, con carrito, sesiones de usuario y gestión de productos.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 3</b></summary>
           <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
