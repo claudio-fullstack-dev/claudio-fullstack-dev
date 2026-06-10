@@ -121,10 +121,10 @@ portada devsport
 <img width="1672" height="941" alt="yy" src="https://github.com/user-attachments/assets/84eae9b7-5ae1-493b-b71d-448e417d5520" />
 
 video mercado liebre
+<img width="600" height="300" alt="600" src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" />
 
 video portafolio web
 <img width="600" height="300" alt="600" src="https://github.com/user-attachments/assets/7a759739-2768-4a17-83d5-27cf5d36b295" />
-
 
 video devsport
 <img width="600" height="300" alt="600px" src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" />
@@ -167,7 +167,7 @@ video devsport
         <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 1</b></summary>
-          <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
+          <img src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" width="100%">
         </details>
       </div>
     </td>
