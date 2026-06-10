@@ -123,9 +123,10 @@ portada devsport
 video mercado liebre
 
 video portafolio web
+<img width="600" height="300" alt="600" src="https://github.com/user-attachments/assets/7a759739-2768-4a17-83d5-27cf5d36b295" />
+
 
 video devsport
-
 <img width="600" height="300" alt="600px" src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" />
 
 
@@ -187,7 +188,7 @@ video devsport
         <p>Un portafolio con diseño de interfaz moderna con animaciones fluidas, transiciones cinemáticas y un sistema de sonido HUD inmersivo integrado.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 2</b></summary>
-          <img src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" width="100%">
+          <img src="https://github.com/user-attachments/assets/7a759739-2768-4a17-83d5-27cf5d36b295" width="100%">
         </details>
       </div>
     </td>
