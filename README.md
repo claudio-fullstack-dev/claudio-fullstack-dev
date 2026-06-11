@@ -135,8 +135,8 @@ video portafolio web
 video devsport
 <img width="600" height="300" alt="600px" src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" />
 
-video github 1
-<img width="600" height="300" alt="ezgif com-video-to-webp-converter" src="https://github.com/user-attachments/assets/80ff3ab7-4436-4074-99e3-1ed3e50cc824" />
+video github 
+<img width="600" height="300" alt="600" src="https://github.com/user-attachments/assets/56a8d7ee-85ed-451b-8ee4-56134a9822f0" />
 
 /> -->
 
@@ -245,7 +245,7 @@ video github 1
         <p>¡Bienvenido a mi perfil de GitHub! 🚀</strong> Un espacio diseñado con mucha creatividad y estructurado a puro HTML nativo.</p>
 	    <details>
           <summary>🎬 <b>Ver Demo Proyecto 4</b></summary>
-          <img src="https://github.com/user-attachments/assets/80ff3ab7-4436-4074-99e3-1ed3e50cc824" width="100%">
+          <img src="https://github.com/user-attachments/assets/56a8d7ee-85ed-451b-8ee4-56134a9822f0" width="100%">
         </details>
       </div>
     </td>
