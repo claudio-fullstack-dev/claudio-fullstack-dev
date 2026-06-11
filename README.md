@@ -182,7 +182,7 @@ video devsport
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="#" target="_self">
-            <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=3fFD7f">
+            <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=3fFD7f&logo=google-chrome&logoColor=black">
           </a>
         </p>
         <p>Un portafolio con diseño de interfaz moderna con animaciones fluidas, transiciones cinemáticas y un sistema de sonido HUD inmersivo integrado.</p>
@@ -210,7 +210,7 @@ video devsport
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="#" target="_self">
-            <img src="https://img.shields.io/badge/-Demo-green?style=for-the-badge&color=fbfc40">
+            <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=fbfc40&logo=google-chrome&logoColor=black">
           </a>
         </p>
         <p>E-commerce de venta de ropa y accesorios deportivos, con carrito, sesiones de usuario y gestión de productos.</p>
@@ -231,7 +231,7 @@ video devsport
             <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="#" target="_self">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4&logo=youtube&logoColor=white">
           </a>
         </p>
         <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
