@@ -216,11 +216,9 @@ video github 1
         </a>
         <p>
           <a href="#" target="_self">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
+<img src="https://img.shields.io/badge/CÓDIGO-ffe0b2?style=for-the-badge&logo=github&logoColor=black">          </a>
           <a href="#" target="_self">
-            <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=fbfc40&logo=google-chrome&logoColor=black">
-          </a>
+<img src="https://img.shields.io/badge/Ver%20Demo-ff9800?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=ff9800">          </a>
         </p>
         <p>E-commerce de venta de ropa y accesorios deportivos, con carrito, sesiones de usuario y gestión de productos.</p>
         <details>
