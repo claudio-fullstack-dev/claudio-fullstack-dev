@@ -122,6 +122,10 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 portada devsport
 <img width="1672" height="941" alt="yy" src="https://github.com/user-attachments/assets/84eae9b7-5ae1-493b-b71d-448e417d5520" />
 
+portada github
+<img width="1672" height="941" alt="ChatGPT Image 11 jun 2026, 08_17_00" src="https://github.com/user-attachments/assets/d948ef20-0d47-44e1-8b2a-e835b1861d09" />
+
+
 video mercado liebre
 <img width="600" height="300" alt="600" src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" />
 
@@ -229,7 +233,7 @@ video github 1
       <h3 align="center">Mi GITHUB</h3>
       <div align="center">
         <a href="#" target="_self">
-          <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso Kotlin Multiplatform">
+          <img src="https://github.com/user-attachments/assets/d948ef20-0d47-44e1-8b2a-e835b1861d09" width="100%" alt="Curso Kotlin Multiplatform">
         </a>
         <p>
           <a href="#" target="_self">
