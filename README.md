@@ -168,7 +168,7 @@ video github
           <a href="#" target="_self">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="#" target="_self">
+          <a href="https://mercado-liebre-bp1d.onrender.com/" target="_blank">
             <img src="https://img.shields.io/badge/-Ver%20Demo-green?style=for-the-badge&color=fbfc40&logo=google-chrome&logoColor=black">
           </a>
         </p>
