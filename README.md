@@ -165,6 +165,7 @@ video devsport
           </a>
         </p>
         <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
+		  <br>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 1</b></summary>
           <img src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" width="100%">
@@ -231,13 +232,12 @@ video devsport
             <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="#" target="_self">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4&logo=youtube&logoColor=white">
-          </a>
+<img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=ff00f4&logo=google-chrome&logoColor=black">          </a>
         </p>
         <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
         <details>
           <summary>🎬 <b>Ver Demo Proyecto 4</b></summary>
-          <img src="https://github.com/user-attachments/assets/53365cbd-f9ff-428e-bdd2-35f3fbb3d58e" width="100%">
+          <img src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" width="100%">
         </details>
       </div>
     </td>
