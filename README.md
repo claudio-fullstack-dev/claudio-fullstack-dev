@@ -131,6 +131,8 @@ video portafolio web
 video devsport
 <img width="600" height="300" alt="600px" src="https://github.com/user-attachments/assets/b97877df-37af-409a-accd-22578d83c145" />
 
+video github 1
+<img width="600" height="300" alt="ezgif com-video-to-webp-converter" src="https://github.com/user-attachments/assets/80ff3ab7-4436-4074-99e3-1ed3e50cc824" />
 
 /> -->
 
@@ -224,7 +226,7 @@ video devsport
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Copia de MERCADO LIBRE</h3>
+      <h3 align="center">Mi GITHUB</h3>
       <div align="center">
         <a href="#" target="_self">
           <img src="https://github.com/user-attachments/assets/c6302816-cee8-4178-87d2-54dbd7573470" width="100%" alt="Curso Kotlin Multiplatform">
@@ -236,10 +238,10 @@ video devsport
           <a href="#" target="_self">
 <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=ff00f4&logo=google-chrome&logoColor=black">          </a>
         </p>
-        <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
+        <p>¡Bienvenido a mi perfil de GitHub! 🚀</strong> Un espacio diseñado con mucha creatividad y estructurado a puro HTML nativo.</p>
 	    <details>
           <summary>🎬 <b>Ver Demo Proyecto 4</b></summary>
-          <img src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" width="100%">
+          <img src="https://github.com/user-attachments/assets/80ff3ab7-4436-4074-99e3-1ed3e50cc824" width="100%">
         </details>
       </div>
     </td>
