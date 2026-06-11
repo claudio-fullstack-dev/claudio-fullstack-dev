@@ -235,7 +235,7 @@ video devsport
 <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=ff00f4&logo=google-chrome&logoColor=black">          </a>
         </p>
         <p>Con todos los CRUD basicos necesarios <strong>login, product, compras, carritos, etc</strong>. base de datos en JSON xd.</p>
-        <details>
+	    <details>
           <summary>🎬 <b>Ver Demo Proyecto 4</b></summary>
           <img src="https://github.com/user-attachments/assets/9d73dcfd-7b76-4af0-8bb4-74e25a2432b7" width="100%">
         </details>
