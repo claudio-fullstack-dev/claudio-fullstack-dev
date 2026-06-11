@@ -16,6 +16,7 @@
 [![GitHub](https://img.icons8.com/fluency/48/000000/github.png "GitHub de Claudio")](https://github.com/claudio-fullstack-dev) 
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "Instagram de Claudio")](https://www.instagram.com/claudio.fullstack.dev/)
 [![Portafolio](https://img.icons8.com/fluency/48/000000/domain.png "Portafolio de Claudio")](https://TU_LINK_DE_PORTAFOLIO)
+[![Discord](https://img.icons8.com/fluency/48/000000/discord.png "Discord de Claudio")](https://discord.com/users/clauder.dev)
 </div>
 
 <h2>Sobre mi 😃</h2>
