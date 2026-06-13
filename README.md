@@ -190,7 +190,7 @@ video github
           <a href="#" target="_self">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="#" target="_self">
+          <a href="https://claudio-fullstack-dev.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=3fFD7f&logo=google-chrome&logoColor=black">
           </a>
         </p>
@@ -218,7 +218,7 @@ video github
           <a href="#" target="_self">
           <img src="https://img.shields.io/badge/CÓDIGO-ffe0b2?style=for-the-badge&logo=github&logoColor=black">   
 		  </a>
-          <a href="#" target="_self">
+          <a href="https://devsport.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Ver%20Demo-green?style=for-the-badge&color=ff9800&logo=google-chrome&logoColor=black">
 		  </a>
         </p>
