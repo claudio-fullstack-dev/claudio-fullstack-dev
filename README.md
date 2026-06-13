@@ -239,7 +239,7 @@ video github
           <a href="#" target="_self">
             <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="#" target="_self">
+          <a href="https://github.com/claudio-fullstack-dev" target="_blank">
 <img src="https://img.shields.io/badge/-Ver Demo-green?style=for-the-badge&color=ff00f4&logo=google-chrome&logoColor=black">          </a>
         </p>
         <p>¡Bienvenido a mi perfil de GitHub! 🚀</strong> Un espacio diseñado con mucha creatividad y estructurado a puro HTML nativo.</p>
