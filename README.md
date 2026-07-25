@@ -44,6 +44,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
 
 </p>
@@ -51,6 +52,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" />
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
@@ -61,18 +63,20 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=sequelize" title="Sequelize" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
-</p>
+ </p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" />
+  <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
   <img src="https://skillicons.dev/icons?i=netbeans" title="NetBeans" />
   <img src="https://skillicons.dev/icons?i=n8n" title="n8n" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 <br>
 <h2> En lo que soy bueno 🧑‍💻 :</h2>
@@ -86,6 +90,7 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
  </p>
 
 <h4>Backend</h4>
@@ -94,6 +99,8 @@ como **Técnico en Programación**, la cual he potenciado con una formación int
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
 </p>
 
 <h4>Database</h4>
